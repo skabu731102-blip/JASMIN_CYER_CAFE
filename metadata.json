@@ -1,0 +1,6 @@
+{
+  "name": "Sakib Studio - PVC Card Printing India",
+  "description": "Online PVC Card Printing across India. e-Aadhaar, PAN Card, Voter ID & Driving License print with smart PDF password auto-rename, instant WhatsApp order notifications, and 7-day home delivery tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
